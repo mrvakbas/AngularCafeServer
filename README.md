@@ -2,11 +2,13 @@
 Kahve Atölyesi, modern bir kahve dükkanının hem vitrin (Frontend) hem de yönetim (Admin Panel) ihtiyaçlarını karşılamak üzere tasarlanmış, uçtan uca bir web uygulamasıdır. Kullanıcılar menüyü inceleyebilirken, yöneticiler tüm içeriği dinamik olarak kontrol edebilir.
 ## 🚀 Özellikler
 ## 📱 Kullanıcı Arayüzü (Angular)
+
 • Dinamik Menü: Kategorilere ayrılmış (Kahveler, Tatlılar, Çaylar vb.) güncel ürün listesi.
-•	Demleme Teknikleri: V60, Nitro ve Ristretto gibi özel tekniklerin tanıtıldığı bilgilendirme alanı.
-•	Referanslar/Yorumlar: Müşteri deneyimlerinin sergilendiği dinamik slider alanı.
-•	Modern Tasarım: Responsive (mobil uyumlu) ve kullanıcı dostu arayüz.
-🔐 Yönetim Paneli (Admin Dashboard)
+• Demleme Teknikleri: V60, Nitro ve Ristretto gibi özel tekniklerin tanıtıldığı bilgilendirme alanı.
+• Referanslar/Yorumlar: Müşteri deneyimlerinin sergilendiği dinamik slider alanı.
+• Modern Tasarım: Responsive (mobil uyumlu) ve kullanıcı dostu arayüz.
+
+## 🔐 Yönetim Paneli (Admin Dashboard)
 •	Ürün Yönetimi (CRUD): Menüye yeni ürün ekleme, fiyat güncelleme ve silme işlemleri.
 •	Kategori Yönetimi: Ürünlerin organize edildiği kategorilerin dinamik yönetimi.
 •	Referans Yönetimi: Müşteri yorumlarını onaylama ve düzenleme paneli.
